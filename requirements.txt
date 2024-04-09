@@ -2,4 +2,4 @@ streamlit
 pandas
 numpy
 google.generativeai
-langchain_community.document_loaders
+
