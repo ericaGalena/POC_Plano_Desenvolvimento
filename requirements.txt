@@ -1,5 +1,5 @@
 streamlit
 pandas
 numpy
-PyPDFLoader
+langchain_community.document_loaders
 google.generativeai
